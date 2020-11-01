@@ -1,4 +1,3 @@
-# show_my_work
 
 ## Background
 It is difficult for humans to continuously monitor traffic violations. Therefore, fully automatic monitoring of traffic violations is becoming more and more important. However, insufficient vehicle recognition accuracy and excessive reliance on calibrated cameras are two majar challenges. We overcome these problems and achieve great performances on many practical applications.
